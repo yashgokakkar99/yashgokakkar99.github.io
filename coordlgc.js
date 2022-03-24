@@ -29,4 +29,3 @@ function getLocationUpdate() {
     alert("Sorry, browser does not support geolocation!");
   }
 }
-
